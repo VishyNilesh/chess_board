@@ -1,0 +1,74 @@
+table{
+  border: 1px solid black;
+  height: 500px;
+  width: 500px;
+  margin: auto;
+}
+td {
+  height : 50px;
+  width: 50px;
+}
+#one td:nth-of-type(even){
+  background-color: black;
+  margin:0px 0px;
+}
+#one td:nth-of-type(odd){
+  background-color: white;
+  margin:0px 0px;
+}
+#two td:nth-of-type(odd){
+  background-color: black;
+  margin:0px 0px;
+}
+#two td:nth-of-type(even){
+  background-color: white;
+  margin:0px 0px;
+}
+#three td:nth-of-type(even){
+  background-color: black;
+  margin:0px 0px;
+}
+#three td:nth-of-type(odd){
+  background-color: white;
+  margin:0px 0px;
+}
+#four td:nth-of-type(odd){
+  background-color: black;
+  margin:0px 0px;
+}
+#four td:nth-of-type(even){
+  background-color: white;
+  margin:0px 0px;
+}
+#five td:nth-of-type(even){
+  background-color: black;
+  margin:0px 0px;
+}
+#five td:nth-of-type(odd){
+  background-color: white;
+  margin:0px 0px;
+}
+#six td:nth-of-type(odd){
+  background-color: black;
+  margin:0px 0px;
+}
+#six td:nth-of-type(even){
+  background-color: white;
+  margin:0px 0px;
+}
+#seven td:nth-of-type(even){
+  background-color: black;
+  margin:0px 0px;
+}
+#seven td:nth-of-type(odd){
+  background-color: white;
+  margin:0px 0px;
+}
+#eight td:nth-of-type(odd){
+  background-color: black;
+  margin:0px 0px;
+}
+#eight td:nth-of-type(even){
+  background-color: white;
+  margin:0px 0px;
+}
